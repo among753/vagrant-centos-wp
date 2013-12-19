@@ -1,0 +1,6 @@
+/cookbooks/
+/bin
+/.bundle
+/vendor
+/.vagrant
+

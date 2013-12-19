@@ -1,0 +1,37 @@
+{
+  "sources": {
+    "nginx": {
+      "locked_version": "2.2.0"
+    },
+    "mysql": {
+      "locked_version": "4.0.10"
+    },
+    "yum": {
+      "locked_version": "3.0.2"
+    },
+    "apt": {
+      "locked_version": "2.3.0"
+    },
+    "bluepill": {
+      "locked_version": "2.3.0"
+    },
+    "rsyslog": {
+      "locked_version": "1.9.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "ohai": {
+      "locked_version": "1.1.12"
+    },
+    "runit": {
+      "locked_version": "1.5.1"
+    },
+    "yum-epel": {
+      "locked_version": "0.2.0"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    }
+  }
+}
